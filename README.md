@@ -1,2 +1,2 @@
 # homebrew-tap
-A homebrew tap to install my proejcts
+A homebrew tap to install my projects. Nothing really to see here.
